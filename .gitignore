@@ -1,0 +1,5 @@
+.*.swp
+.*.swo
+site.retry
+.vagrant
+playbooks/roles/*

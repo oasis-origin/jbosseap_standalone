@@ -1,0 +1,4 @@
+- hosts: jboss_standalone
+  roles:
+    - oasis-roles.system_repositories
+    - oasis-roles.jbosseap
